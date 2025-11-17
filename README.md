@@ -1,3 +1,3 @@
 # bookbot
-Make a bookbot using boot.dev
-Here is an edit.
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
